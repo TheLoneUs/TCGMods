@@ -1,0 +1,12 @@
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\bin\Debug\netstandard2.1\WynonasBigBrownBox.deps.json
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\bin\Debug\netstandard2.1\WynonasBigBrownBox.dll
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\bin\Debug\netstandard2.1\WynonasBigBrownBox.pdb
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.csproj.AssemblyReference.cache
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.AssemblyInfoInputs.cache
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.AssemblyInfo.cs
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.sourcelink.json
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.dll
+C:\Users\Matt\Documents\Development\TCGMods\WynonasBigBrownBox\obj\Debug\netstandard2.1\WynonasBigBrownBox.pdb
